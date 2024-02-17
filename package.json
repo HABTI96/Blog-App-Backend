@@ -1,0 +1,12 @@
+{
+  "name": "week-challenge-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge.js",
+  "scripts": {
+    "start":"nodemon app.js"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
